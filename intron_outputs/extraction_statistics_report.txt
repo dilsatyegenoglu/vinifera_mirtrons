@@ -1,0 +1,61 @@
+============================================================
+INTRON EXTRACTION STATISTICS REPORT
+============================================================
+
+SUMMARY STATISTICS:
+----------------------------------------
+Total introns extracted: 274,093
+Total transcripts: 42,411
+Mean introns per transcript: 6.46
+Max introns per transcript: 78
+
+LENGTH STATISTICS:
+----------------------------------------
+Mean length: 1133.80 bp
+Median length: 267.00 bp
+Min length: 1 bp
+Max length: 92695 bp
+Standard deviation: 3072.60 bp
+
+LENGTH PERCENTILES:
+----------------------------------------
+25th percentile: 107.00 bp
+50th percentile: 267.00 bp
+75th percentile: 940.00 bp
+90th percentile: 2467.00 bp
+95th percentile: 5045.00 bp
+99th percentile: 13123.00 bp
+
+LENGTH CATEGORIES:
+----------------------------------------
+Very short (<50 bp): 503 (0.18%)
+Short (50-100 bp): 54,535 (19.90%)
+Medium (100-500 bp): 113,604 (41.45%)
+Long (500-2000 bp): 71,719 (26.17%)
+Very long (≥2000 bp): 33,732 (12.31%)
+
+STRAND DISTRIBUTION:
+----------------------------------------
+Plus strand (+): 134,458 (49.06%)
+Minus strand (-): 139,635 (50.94%)
+Unknown strand: 0 (0.00%)
+
+CHROMOSOME/CONTIG DISTRIBUTION:
+----------------------------------------
+Unique chromosomes/contigs: 19
+  NC_081811.1: 24,434 (8.91%)
+  NC_081817.1: 20,651 (7.53%)
+  NC_081822.1: 20,485 (7.47%)
+  NC_081818.1: 18,259 (6.66%)
+  NC_081812.1: 17,030 (6.21%)
+  NC_081805.1: 15,526 (5.66%)
+  NC_081808.1: 15,279 (5.57%)
+  NC_081809.1: 14,914 (5.44%)
+  NC_081810.1: 13,632 (4.97%)
+  NC_081823.1: 13,299 (4.85%)
+  NC_081814.1: 13,289 (4.85%)
+  NC_081816.1: 13,143 (4.80%)
+  NC_081815.1: 12,330 (4.50%)
+  NC_081813.1: 11,379 (4.15%)
+  NC_081821.1: 11,168 (4.07%)
+  ... and 4 more
