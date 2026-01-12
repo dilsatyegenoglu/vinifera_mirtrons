@@ -13,3 +13,9 @@ plots/
 *.fa
 *.tsv
 
+
+# Large genome/annotation files
+vinifera.fna
+vinifera.gff
+*.fna
+*.gff
